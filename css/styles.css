@@ -1,0 +1,83 @@
+body {
+    margin: 0px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+    padding: 40px
+}
+#info{
+    text-transform: capitalize;
+}
+h1{
+    color: #0e2452;
+}
+h2{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+h3{
+    font-weight: 600;
+}
+.section-title{
+    border-bottom: 2px solid black;
+}
+#ten{
+    border-bottom: none;
+}
+.anh {
+    float: right;
+    margin-left: 10px;
+}
+
+h1{
+    font-size: 50px;
+}
+.in4{
+    text-transform: none;
+    width: 150%;
+}
+#content1{
+    font-size: 17px;
+}
+.bang1 {
+    width: 100%;
+}
+.bang2{
+    width: 140%
+}
+.bang3{
+    width: 85%;
+}
+.bang4{
+    width: 60%;
+}
+.bang5{
+    width: 150%;
+}
